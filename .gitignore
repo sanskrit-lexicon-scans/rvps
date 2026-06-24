@@ -1,5 +1,3 @@
-# Emacs backup
-*~
-temp*
-__pycache__
-.DS_Store
+rvps1.pdf
+rvps2.pdf
+*.DS_Store
