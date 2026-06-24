@@ -2,9 +2,12 @@
 
 Ref: <https://github.com/sanskrit-lexicon/PWG/issues/173>
 
-PDF source: (to be filled)
+Ṛgveda Prātiśākhya Uebersetzung des Prâtisâkhya (1856 & 1869) Max Muller
 
-license: (to be filled)
+PDF source:
+
+Volume-1 (1856) : <https://www.digitale-sammlungen.de/en/view/bsb10219755>
+Volume-2 (1869) : <https://www.digitale-sammlungen.de/en/view/bsb10622287>
 
 PDF title: Ṛgveda Prātiśākhya
 
